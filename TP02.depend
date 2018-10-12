@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1539302810 source:/home/athena/Desktop/TP02/main.c
+	<stdio.h>
+	"sudoku.h"
+
+1539302226 /home/athena/Desktop/TP02/sudoku.h
+	<stdlib.h>
+	<stdio.h>
+
+1539302749 source:/home/athena/Desktop/TP02/sudoku.c
+	"sudoku.h"
+
