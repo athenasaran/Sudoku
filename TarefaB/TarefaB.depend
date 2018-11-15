@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1542291516 source:/home/athena/Desktop/TarefaB/main.c
+	<stdio.h>
+	<stdlib.h>
+	"cidade.h"
+
+1542291330 /home/athena/Desktop/TarefaB/cidade.h
+	<stdlib.h>
+	<stdio.h>
+	<string.h>
+	<time.h>
+
+1542291167 source:/home/athena/Desktop/TarefaB/cidade.c
+	"cidade.h"
+
