@@ -4,7 +4,7 @@
 int menu(){
     int opcao;
     printf("Tarefa B: Obras na estrada\n");
-    printf("Digite 1 para entrar com o arquivo");
+    printf("Digite 1 para entrar com o arquivo\n");
     printf("Digite 2 para imprimir os caminhos possiveis\n");
     printf("Digite 0 para sair\n");
     scanf("%d", &opcao);
